@@ -1,0 +1,11 @@
+# Build results
+cmake-build-*
+
+# IDE
+.idea
+
+# Others
+*.exe
+*.pdb
+*.obj
+*.env
