@@ -2,8 +2,8 @@
 
 #include <random>
 
-#include "Vec3.h"
 #include "Interval.h"
+#include "Vec3.h"
 
 inline constexpr double PI = 3.14159265358979323846;
 

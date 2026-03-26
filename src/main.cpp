@@ -1,8 +1,8 @@
-#include "HittableList.h"
-#include "Sphere.h"
 #include "Camera.h"
+#include "HittableList.h"
 #include "Material.h"
 #include "Plane.h"
+#include "Sphere.h"
 #include "Utility.h"
 
 int main() {
